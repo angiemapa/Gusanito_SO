@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package gusanito_s_0;
+package Juego;
 
-import static gusanito_s_0.Monitor.monitor;
+import static Juego.Monitor.monitor;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Image;

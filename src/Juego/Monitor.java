@@ -1,4 +1,4 @@
-package gusanito_s_0;
+package Juego;
 
 import java.awt.Image;
 import java.awt.Rectangle;
